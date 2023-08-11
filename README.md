@@ -9,7 +9,7 @@ Welcome to Finger Flight! Your one-stop solution for hassle-free flight bookings
 
 ## Overview 🌍
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Redoykumar/FingerFlights-Demo/main/Images/web.gif" alt="Finger Flight GIF">
+  <img src="https://raw.githubusercontent.com/Redoykumar/FingerFlights-Demo/main/images/web.gif" alt="Finger Flight GIF">
 </p>
 
 Finger Flight is a user-friendly flight booking application that simplifies the process of searching, comparing, and booking flights. With its intuitive interface and powerful features, it's designed to make your travel planning a breeze. 🌟
