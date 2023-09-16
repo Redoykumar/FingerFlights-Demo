@@ -7,7 +7,7 @@ Welcome to Finger Flight! Your one-stop solution for hassle-free flight bookings
   <img src="https://fingerflights.com/wp-content/uploads/2021/08/fingerflight-logo-1.png" alt="Finger Flight Logo">
 </p>
 <p align="center">
-  <a href="https://fingerflights.com/" target="_blank">
+  <a href="http://flightgoal.com/" target="_blank">
    ...VISIT...
   </a>
 </p>
